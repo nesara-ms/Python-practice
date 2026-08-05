@@ -9,7 +9,7 @@ Each file will contain:
 A Python problem statement (commented)
 The solution with proper code and explanation
 🗓️ Daily Challenges
-Each challenge is placed in its own Python file, named by the day For example: 1.py 2.py ...
+Each challenge is placed in its own Python file, named by the day For example: 001.py 002.py ...
 
 🧠 Topics Covered
 Strings
