@@ -8,3 +8,4 @@ if copy_list1 == list1:
 else:
     print("list2 is not a palindrome")
     
+    
