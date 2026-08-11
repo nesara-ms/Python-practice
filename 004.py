@@ -7,3 +7,4 @@ if copy_list1 == list1:
     print("list1 is a palindrome")
 else:
     print("list2 is not a palindrome")
+    
